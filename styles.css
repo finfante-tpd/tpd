@@ -9,6 +9,17 @@
     --font-heading: 'Playfair Display', Georgia, serif;
     --font-body: 'Plus Jakarta Sans', sans-serif;
 }
+/* Estilo para el logo en imagen */
+.logo-link {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    height: 35px; /* Ajusta la altura de tu logo según prefieras */
+    width: auto;  /* Mantiene la proporción original */
+    object-fit: contain;
+}
 
 * {
     box-sizing: border-box;
