@@ -16,7 +16,7 @@
 }
 
 .logo-img {
-    height: 35px; /* Ajusta la altura de tu logo según prefieras */
+    height: 45px; /* Ajusta la altura de tu logo según prefieras */
     width: auto;  /* Mantiene la proporción original */
     object-fit: contain;
 }
